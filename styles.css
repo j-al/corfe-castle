@@ -1,0 +1,38 @@
+body {
+	/* cream */
+	background-color: E8E8E0;
+	font-family: "Times New Roman";
+}
+
+/*
+body p {
+	text-align: center;
+}
+*/
+
+nav {
+	/* dark green */
+	background-color: 006400;
+	text-align: center;
+}
+
+nav a {
+	color: white;
+}
+
+footer {
+	background-color: 006400;
+	color: white;
+	text-align: center;
+}
+
+footer a {
+	background-color: 006400;
+	color: white;
+	text-align: center;
+}
+/*
+a {
+	color: black;
+}
+*/
