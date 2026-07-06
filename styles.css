@@ -35,7 +35,8 @@ nav a {
 	text-align: center;
 }
 .hero img {
-	width: auto;
+	/* width: auto; */
+	width: 60%;
 	height: 80%;
 }
 
